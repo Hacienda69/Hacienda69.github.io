@@ -13,7 +13,7 @@ _Pac-Man Arrangement logo_
 
 
 ## Game Description
-```markdown
+
 Pac-Man Arrangement (1996) is an arcade video game belonging to the labyrinth genre. It was released as a commemorative game of Namco's greatest hits within a compilation of these called 'Namco Classic Collection Volume 2'.
 
 The objective of the game, as in the original Pac-Man of 1980, is still to control Pac-Man, a yellow sphere with a mouth and eyes so that he eats all the 'pac-dots' that are on the stage, however , in this installment there are many new changes, such as the implementation of a fifth ghost that merges with the four existing ones, new mechanics such as the dash or the jump or that only 23 levels instead of 255 or the presence of a final boss !!
@@ -23,11 +23,11 @@ The objective of the game, as in the original Pac-Man of 1980, is still to contr
 
 
 _Pac-Man Arrangement (1996) screenshots_
-```
+
 
 
 ## Team members
-```markdown
+
 * Alba Espejo Longaron -
   Github link
 
@@ -42,18 +42,17 @@ _Pac-Man Arrangement (1996) screenshots_
 
 * Marc Escandell Alonso -
   [Github link](https://github.com/MrMonkey420)
-```
 
 //[Link](url) and ![Image](src)
 
 ## Index
-```markdown
+
 * ### [General Analysis](https://github.com/AlbaLon/Pacman/wiki/2.-General-Analysis)
 * ### [Design](https://github.com/AlbaLon/Pacman/wiki/3.-Design)
 * ### [UI](https://github.com/AlbaLon/Pacman/wiki/4.-UI)
 * ### [Audio](https://github.com/AlbaLon/Pacman/wiki/5.-Audio)
 * ### [Art](https://github.com/AlbaLon/Pacman/wiki/6.-Art)
-```
+
 
 
 ## Team photo
