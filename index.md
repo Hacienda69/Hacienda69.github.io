@@ -44,7 +44,8 @@ _Pac-Man Arrangement (1996) screenshots_
   [Github link](https://github.com/MrMonkey420)
 
 [https://www.youtube.com/watch?v=BzFRKLF8eHk]
-//[Link](url) and ![Image](src)
+
+https://youtu.be/E0fkikUy7dI
 
 ## Index
 
