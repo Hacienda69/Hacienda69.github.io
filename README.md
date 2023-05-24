@@ -1,10 +1,10 @@
-#Static Code Analysis - Dani Mañas
+# Static Code Analysis - Dani Mañas
 
-##Systems for static code analysis to catch more errors in code
+## Systems for static code analysis to catch more errors in code
 
 Static Code Analysis (SCA) is a method of analyzing source code without executing it. It involves examining the code's structure, syntax, and other characteristics to identify potential defects, security vulnerabilities, coding mistakes, and adherence to coding standards. The analysis is performed by specialized tools known as Static Code Analyzers or Static Analysis Tools.
 
-###key points
+### key points
 
 * **Automated Analysis:** Static Code Analysis is an automated process where specialized tools scan the source code files to identify issues. It helps to catch potential problems early in the development cycle. (SUPER IMPORTANT, IF A PROJECT STARTS WITH ITS CODE HAVING ISSUES THOSE PROBLEMS WILL EXPONENTIALLY INCREASE)
 
@@ -20,7 +20,7 @@ Static Code Analysis (SCA) is a method of analyzing source code without executin
 **NOTE:** By using Static Code Analysis, developers and organizations can proactively identify and address potential issues in their codebase, leading to improved software quality, enhanced security, and more maintainable code but Static Code Analysis tools may occasionally generate false positives (warnings for code that is actually correct) or false negatives (missing actual issues). It is important for developers to review the analysis results critically and use their judgment to address the identified issues.
 
 
-##Address sanitizers in C/C++
+## Address sanitizers in C/C++
 
 Address sanitizers are dynamic analysis tools that help catch memory-related bugs and vulnerabilities during program execution. They are part of the GCC and Clang compilers and provide additional runtime checks. Here are two commonly used address sanitizers:
 
@@ -30,9 +30,9 @@ Address sanitizers are dynamic analysis tools that help catch memory-related bug
 
 Both ASan and UBSan provide valuable feedback during program execution, making it easier to identify memory-related issues and undefined behavior. They are commonly used alongside static code analysis tools to provide a comprehensive approach to code quality and security.
 
-##Example for online: coverity, other tools?
+## Example for online: coverity, other tools?
 
-###Online Static Code Analysis Tools:
+### Online Static Code Analysis Tools:
 
 * **Coverity:** (now part of Synopsys) is a widely used commercial static code analysis tool. It performs in-depth analysis of C, C++, Java, and other languages, helping to identify defects, security vulnerabilities, and quality issues.
 
@@ -42,9 +42,9 @@ Both ASan and UBSan provide valuable feedback during program execution, making i
 
 * **LGTM:** (short for "Looks Good To Me") is an online platform for static code analysis that supports multiple languages. It focuses on finding security vulnerabilities, code quality issues, and coding standards violations.
 
-##Example for oﬄine: cppcheck, other tools?
+## Example for oﬄine: cppcheck, other tools?
 
-###Offline Static Code Analysis Tools:
+### Offline Static Code Analysis Tools:
 
 * **Cppcheck:** open-source C/C++ static code analysis tool. It performs a wide range of checks, including detection of null pointer dereferences, memory leaks, and incorrect use of standard library functions.
 
