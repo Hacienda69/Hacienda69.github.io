@@ -53,3 +53,21 @@ Both ASan and UBSan provide valuable feedback during program execution, making i
 * **FindBugs:** open-source static code analysis tool for Java. It detects common programming errors, potential bugs, and bad coding practices. FindBugs has been integrated into many Java development environments.
 
 * **ESLint:** widely used static code analysis tool for JavaScript. It helps identify coding errors, potential bugs, and adherence to coding standards. It can be customized with various rules and integrated into popular JavaScript development environments.
+
+## Links
+
+### Static Code Analysis info
+* https://www.techtarget.com/whatis/definition/static-analysis-static-code-analysis
+* https://www.youtube.com/watch?v=4HhHER0n8ls
+* https://www.youtube.com/watch?v=3VmuKDb2C8w&t=536s
+
+### Code Counter
+* https://www.youtube.com/watch?v=dMFi8V6DV4Q
+
+### CPPCheck
+* https://cppcheck.sourceforge.io/
+
+###SonarQube
+* https://www.youtube.com/watch?v=pufcNkJPvxw
+* https://www.youtube.com/watch?v=LpjANAPF2Oo
+* https://www.youtube.com/watch?v=zVzwuV92r6M
